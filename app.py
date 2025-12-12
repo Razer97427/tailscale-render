@@ -19,7 +19,7 @@ def hello():
     
     # Test : Essayer d'atteindre une IP ou un nom de machine sur votre Tailnet
     # Remplacez l'IP ci-dessous par l'IP d'une machine de votre réseau Tailscale (ex: 100.x.y.z)
-    TARGET_IP = "100.100.100.100" 
+    TARGET_IP = "100.125.159.32" 
     
     try:
         # On fait une requête via le proxy
